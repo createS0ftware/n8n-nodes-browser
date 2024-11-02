@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-browser",
-	"version": "0.2.4",
+	"version": "0.2.5",
 	"description": "N8n node to perform headless browser operations such as saving screenshots and PDF, using the browserless library",
 	"keywords": [
 		"n8n-community-node-package"
@@ -8,12 +8,12 @@
 	"license": "MIT",
 	"homepage": "",
 	"author": {
-		"name": "Yann Jouanique",
-		"email": "yann.jouanique@gmail.com"
+		"name": "Yann Jouanique - Modified by Hanson",
+		"email": "haboagye@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Yann-J/n8n-nodes-browser.git"
+		"url": "https://github.com/createS0ftware/n8n-nodes-browser.git"
 	},
 	"main": "index.js",
 	"scripts": {
